@@ -1,0 +1,360 @@
+baseURL = "https://gohugo.io/"
+languageCode  = "fr-fr"
+DefaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = "true"
+theme = "aafu"
+
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    # disable = true
+
+
+[languages]
+    [languages.fr]
+        languageName = "Français"
+        contentDir = "content/fr"
+        title = "Aafu theme"
+        author = "Tien Duy NGUYEN"
+        description = "Profile Tien Duy"
+        copyright = "2020 Tien Duy"
+        weight = 1
+
+        [languages.fr.params]
+            [languages.fr.params.theme]
+                # Available themes are 'light', 'dark', and 'pinkish'
+                mainTheme = "dark"
+                # setting false below will hide 'aafu by darshan' displayed under the profile pic
+                showAttribute = true
+                singlePage = false
+
+            [languages.fr.params.favicons]
+                use = true
+                metas = '''
+                <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+                <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+                <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+                <link rel="manifest" href="site.webmanifest">
+                <link rel="mask-icon" href="safari-pinned-tab.svg" color="#252627">
+                <link rel="shortcut icon" href="favicon.ico">
+                '''
+
+                # Profile section
+            [languages.fr.params.profile]
+                name = "Tien Duy, NGUYEN."
+                tagline = "Ingénieur BIM"
+                location = "Paris, FRANCE"
+                photo = "profile.jpg"
+
+            # Section for links to social websites
+            [languages.fr.params.social]
+                title = "Links"
+
+                [[languages.fr.params.social.list]]
+                    class = "fab"
+                    icon = "fa-linkedin-in"
+                    url = "https://www.linkedin.com/in/tienduy-nguyen/"
+                    title = "LinkedIn"
+                [[languages.fr.params.social.list]]
+                    class = "fab"
+                    icon = "fa-github"
+                    url = "https://github.com/tienduy-nguyen"
+                    title = "GitHub"
+                [[languages.fr.params.social.list]]
+                    class = "fab"
+                    icon = "fa-twitter"
+                    url = "https://twitter.com/tienduy_nguyen"
+                    title = "Twitter"
+                
+                #Specify what is showin in the Accordion
+            [[languages.fr.params.showInAccordion]]
+                item = "aboutme"
+                expand = true   # true for the section that is initially expanded
+            [[languages.fr.params.showInAccordion]]
+                item = "experience"
+            [[languages.fr.params.showInAccordion]]
+                item = "education"
+            [[languages.fr.params.showInAccordion]]
+                item = "publication"
+            [[languages.fr.params.showInAccordion]]
+                item = "project"
+            [[languages.fr.params.showInAccordion]]
+                item = "skill"
+            [[languages.fr.params.showInAccordion]]
+                item = "hobby"
+
+            [languages.fr.params.aboutme]
+                title = "A propos de moi"
+                icon = "fas fa-user"
+                description = """Tien Duy is Vietnamien. Il travaille actuellement pour le Group Vinci Construction France en tant qu'Ingénieur BIM (Building Information modeling). 
+                Il est passionné par la nouvelles technologies et la programmation C#. Il a des expériences dans le travail collaboratif pour les projects en BIM. 
+                Il y a aussi des expériences dans le développement des Add-Ins avec C# et des scripts Dynamo qui permet d'automatiser des tâches et des processus BIM  dans Revit."""
+
+                # Experience section
+            [languages.fr.params.experience]
+                title = "Experiences"
+                icon = "fas fa-briefcase"
+
+                [[languages.fr.params.experience.list]]
+                    position = "Job Title"
+                    dates = "2018 - *Present*"
+                    link = "https://www.vinci-construction.fr/"
+                    company = "VINCI CONSTRUCTION FRANCE"
+                    details = "Work on projects BIM of company."
+                [[languages.fr.params.experience.list]]
+                    position = "Job Title"
+                    dates = "2016 - 2017"
+                    link = "https://www.eiffageinfrastructures.com/resirep"
+                    company = "RESIREP (EIFFAGE GROUP)"
+                    details = "Work on site special foundations."
+
+                # Education section
+            [languages.fr.params.education]
+                title = "Education"
+                icon = "fas fa-graduation-cap"
+
+                [[languages.fr.params.education.list]]
+                    degree = "Civil Engineering Degree"
+                    college = "ESTP Paris"
+                    dates = "2015 - 2018"
+                    thesis_title = "Civil Engineering Degree specialist BIM"
+                    thesis_link = "https://www.estp.fr/"
+                [[languages.fr.params.education.list]]
+                    degree = "Civil Engineering Degree"
+                    college = "National University of Civil Engineering"
+                    dates = "2011 - 2015"
+                    thesis_title = "Engineering Infrastructure"
+                    thesis_link = "http://nuce.edu.vn/en"
+                
+                # Project section
+            [languages.fr.params.project]
+                title = " Dev Projects"
+                icon = "fas fa-project-diagram"
+
+                [[languages.fr.params.project.list]]
+                    title = "project"
+                    url = "#"
+                    description = "Description of the project"
+                [[languages.fr.params.project.list]]
+                    title = "project"
+                    url = "#"
+                    description = "Description of the project"
+                [[languages.fr.params.project.list]]
+                    title = "project"
+                    url = "#"
+                    description = "Description of the project"
+                [[languages.fr.params.project.list]]
+                    title = "project"
+                    url = "#"
+                    description = "Description of the project"            
+
+                # Skill section
+            [languages.fr.params.skill]
+                title = "Compétences"
+                panelId = "skill-panel"
+                icon = "fas fa-cogs"
+
+                [[languages.fr.params.skill.list]]
+                        skill = "Skill 1, Skill 2"
+                        skillrating = 90
+                [[languages.fr.params.skill.list]]
+                        skill = "Skill 3"
+                        skillrating = 80
+                [[languages.fr.params.skill.list]]
+                        skill = "Skill 4"
+                        skillrating = 50
+
+                # Hobby section
+            [languages.fr.params.hobby]
+                title = "Hobbies"
+                icon = "fas fa-gamepad"
+                    
+                [[languages.fr.params.hobby.list]]		
+                        hobby = "Roller-Skate"
+                [[languages.fr.params.hobby.list]]		
+                        hobby = "Table Tennis"
+                [[languages.fr.params.hobby.list]]		
+                        hobby = "Skiing"
+                [[languages.fr.params.hobby.list]]		
+                        hobby = "Lecture"
+                [[languages.fr.params.hobby.list]]		
+                        hobby = "Film"
+    [languages.en]
+        languageName = "English"
+        contentDir = "content/en"
+        title = "Aafu theme"
+        author = "Tien Duy NGUYEN"
+        description = "Profile Tien Duy"
+        copyright = "2020 Tien Duy"
+        weight = 2
+
+        [languages.en.params]
+            [languages.en.params.theme]
+                # Available themes are 'light', 'dark', and 'pinkish'
+                mainTheme = "dark"
+                # setting false below will hide 'aafu by darshan' displayed under the profile pic
+                showAttribute = true
+                singlePage = false
+
+            [languages.en.params.favicons]
+                use = true
+                metas = '''
+                <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+                <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+                <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+                <link rel="manifest" href="site.webmanifest">
+                <link rel="mask-icon" href="safari-pinned-tab.svg" color="#252627">
+                <link rel="shortcut icon" href="favicon.ico">
+                '''
+
+                # Profile section
+            [languages.en.params.profile]
+                name = "Tien Duy, NGUYEN."
+                tagline = "Ingénieur BIM"
+                location = "Paris, FRANCE"
+                photo = "profile.jpg"
+
+            # Section for links to social websites
+            [languages.en.params.social]
+                title = "Links"
+
+                [[languages.en.params.social.list]]
+                    class = "fab"
+                    icon = "fa-linkedin-in"
+                    url = "https://www.linkedin.com/in/tienduy-nguyen/"
+                    title = "LinkedIn"
+                [[languages.en.params.social.list]]
+                    class = "fab"
+                    icon = "fa-github"
+                    url = "https://github.com/tienduy-nguyen"
+                    title = "GitHub"
+                [[languages.en.params.social.list]]
+                    class = "fab"
+                    icon = "fa-twitter"
+                    url = "https://twitter.com/tienduy_nguyen"
+                    title = "Twitter"
+                
+                #Specify what is showin in the Accordion
+            [[languages.en.params.showInAccordion]]
+                item = "aboutme"
+                expand = true   # true for the section that is initially expanded
+            [[languages.en.params.showInAccordion]]
+                item = "experience"
+            [[languages.en.params.showInAccordion]]
+                item = "education"
+            [[languages.en.params.showInAccordion]]
+                item = "publication"
+            [[languages.en.params.showInAccordion]]
+                item = "project"
+            [[languages.en.params.showInAccordion]]
+                item = "skill"
+            [[languages.en.params.showInAccordion]]
+                item = "hobby"
+
+            [languages.en.params.aboutme]
+                title = "About me"
+                icon = "fas fa-user"
+                description = """Tien Duy is Vietnamien. Il travaille actuellement pour le Group Vinci Construction France en tant qu'Ingénieur BIM (Building Information modeling). 
+                Il est passionné par la nouvelles technologies et la programmation C#. Il a des expériences dans le travail collaboratif pour les projects en BIM. 
+                Il y a aussi des expériences dans le développement des Add-Ins avec C# et des scripts Dynamo qui permet d'automatiser des tâches et des processus BIM  dans Revit."""
+
+                # Experience section
+            [languages.en.params.experience]
+                title = "Experiences"
+                icon = "fas fa-briefcase"
+
+                [[languages.en.params.experience.list]]
+                    position = "Job Title"
+                    dates = "2018 - *Present*"
+                    link = "https://www.vinci-construction.fr/"
+                    company = "VINCI CONSTRUCTION FRANCE"
+                    details = "Work on projects BIM of company."
+                [[languages.en.params.experience.list]]
+                    position = "Job Title"
+                    dates = "2016 - 2017"
+                    link = "https://www.eiffageinfrastructures.com/resirep"
+                    company = "RESIREP (EIFFAGE GROUP)"
+                    details = "Work on site special foundations."
+
+                # Education section
+            [languages.en.params.education]
+                title = "Education"
+                icon = "fas fa-graduation-cap"
+
+                [[languages.en.params.education.list]]
+                    degree = "Civil Engineering Degree"
+                    college = "ESTP Paris"
+                    dates = "2015 - 2018"
+                    thesis_title = "Civil Engineering Degree specialist BIM"
+                    thesis_link = "https://www.estp.fr/"
+                [[languages.en.params.education.list]]
+                    degree = "Civil Engineering Degree"
+                    college = "National University of Civil Engineering"
+                    dates = "2011 - 2015"
+                    thesis_title = "Engineering Infrastructure"
+                    thesis_link = "http://nuce.edu.vn/en"
+                
+                # Project section
+            [languages.en.params.project]
+                title = " Dev Projects"
+                icon = "fas fa-project-diagram"
+
+                [[languages.en.params.project.list]]
+                    title = "project"
+                    url = "#"
+                    description = "Description of the project"
+                [[languages.en.params.project.list]]
+                    title = "project"
+                    url = "#"
+                    description = "Description of the project"
+                [[languages.en.params.project.list]]
+                    title = "project"
+                    url = "#"
+                    description = "Description of the project"
+                [[languages.en.params.project.list]]
+                    title = "project"
+                    url = "#"
+                    description = "Description of the project"            
+
+                # Skill section
+            [languages.en.params.skill]
+                title = "Compétences"
+                panelId = "skill-panel"
+                icon = "fas fa-cogs"
+
+                [[languages.en.params.skill.list]]
+                        skill = "Skill 1, Skill 2"
+                        skillrating = 90
+                [[languages.en.params.skill.list]]
+                        skill = "Skill 3"
+                        skillrating = 80
+                [[languages.en.params.skill.list]]
+                        skill = "Skill 4"
+                        skillrating = 50
+
+                # Hobby section
+            [languages.en.params.hobby]
+                title = "Hobbies"
+                icon = "fas fa-gamepad"
+                    
+                [[languages.en.params.hobby.list]]		
+                        hobby = "Roller-Skate"
+                [[languages.en.params.hobby.list]]		
+                        hobby = "Table Tennis"
+                [[languages.en.params.hobby.list]]		
+                        hobby = "Skiing"
+                [[languages.en.params.hobby.list]]		
+                        hobby = "Lecture"
+                [[languages.en.params.hobby.list]]		
+                        hobby = "Film"
+    
