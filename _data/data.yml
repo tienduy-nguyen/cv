@@ -21,7 +21,7 @@ sidebar:
     bitbucket:
     twitter: '@TienDuyNGUYEN1'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: codewars.com/users/TienDuy
+    codewars: TienDuy
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -63,8 +63,8 @@ education:
       details: |
         Spécialité: Travaux Publics
         Option:  BIM (Building Information Modeling).
-    - degree: Diplôme d’Ingénieur de Génie Civil
-      university: ECOLE SUPERIEURE DE GENIE CIVIL (ESGC) - Vietnam
+    - degree: Diplôme d’Ingénieur
+      university: Ecole Supérieur de Génie Civil (ESGC) - Vietnam
       time: 2011 - 2015
       details: |
         Spécialité: Infrastructure de transport
@@ -73,14 +73,14 @@ experiences:
       time: 03/2018 - Present
       company: VCF Habitat IDF (Vinci Construction France) à Nanterre (92000)
       details: |
-        Developement:
+        Developement
           - Plugins Revit(C#, Dynamo)
           - VBA Excel
+
         BIM
           - Maquettes BIM GO pour l’étude de prix
           - Maquettes BIM pour suivi travaux de réhabilitation en utilisant format IFC
           - Gestion de flux de travail sur la maquette Revit entre le 3 services ARC, STR, MTH
-        PFE
           - Production les gabarits Revit adaptant aux besoins du travail en collaboration entre les services ARC, STR et MTH
           - Configuration DWG dans gabarit Revit pour adapter la charte graphique du BET STR et ARC
           - Définir du processus BIM interne
@@ -89,12 +89,11 @@ experiences:
       time: 06/2016 - 08/2017
       company: RESIREP (Groupe EIFFAGE) à Monaco
       details: |
-        -	Chantier fondations spéciaux : Chantier Darse Nord et chantier Tour Giroflées à Monaco
+        - Chantier fondations spéciaux : Chantier Darse Nord et chantier Tour Giroflées à Monaco
    
 projects:
     title: Projets personnelles
     intro: >
-      Projets autodicdactes.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -118,26 +117,26 @@ projects:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Compétences
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C#, WPF
+        level: |
 
       - name: Javascript & jQuery
-        level: 98%
+        level: |
 
-      - name: Angular
-        level: 98%
+      - name: Nodejs, Express, Socket.io
+        level: |
 
       - name: HTML5 & CSS
-        level: 95%
+        level: |
 
       - name: Ruby on Rails
-        level: 85%
+        level: |
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: |
 
 footer: >
     
