@@ -19,7 +19,7 @@ sidebar:
     github: tienduy-nguyen
     gitlab:
     bitbucket:
-    twitter: '@TienDuyNGUYEN1'
+    twitter: '@tienduy_nguyen'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars: TienDuy
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -67,6 +67,7 @@ education:
       university: Ecole Supérieur de Génie Civil (ESGC) - Vietnam
       time: 2011 - 2015
       details: |
+      
         Spécialité: Infrastructure de transport
 experiences:
     - role: Ingénieur BIM
@@ -120,23 +121,28 @@ skills:
     title: Compétences
 
     toolset:
-      - name: C#, WPF
+      - name: BackEnd - C#, WPF, Nodejs, Express, Socket.io
         level: |
 
-      - name: Javascript & jQuery
+      - name: FontEnd - HTML5, CSS, Javascript & jQuery, ReactJS, Redux, Bootstrap4
         level: |
 
-      - name: Nodejs, Express, Socket.io
+      - name: Base de données - MongoDB, PostgresSQL, MySQL
         level: |
 
-      - name: HTML5 & CSS
+      - name: Outils - Git, GitHub, Visual studio, Visual studio Code
         level: |
 
-      - name: Ruby on Rails
+      - name: Logiciels BIM - Revit, Autocad, Naviswork, Teckla Structure, Robot Structural Analysis (RSA)
+Unity, SketchUp, Civil 3D, Rhinoceros, MSProject
         level: |
 
-      - name: Sketch & Photoshop
+      - name: Programmations graphiques - Dynamo(Revit)
         level: |
+
+      - name: Offices - VBA Excel
+        level: |
+
 
 footer: >
     
