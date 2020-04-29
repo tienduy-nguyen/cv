@@ -64,10 +64,9 @@ education:
         Spécialité: Travaux Publics
         Option:  BIM (Building Information Modeling).
     - degree: Diplôme d’Ingénieur
-      university: Ecole Supérieur de Génie Civil (ESGC) - Vietnam
+      university: Ecole Supérieure de Génie Civil (ESGC) - Vietnam
       time: 2011 - 2015
       details: |
-      
         Spécialité: Infrastructure de transport
 experiences:
     - role: Ingénieur BIM
@@ -121,27 +120,27 @@ skills:
     title: Compétences
 
     toolset:
-      - name: BackEnd - C#, WPF, Nodejs, Express, Socket.io
+      - name: BackEnd
         level: |
-
-      - name: FontEnd - HTML5, CSS, Javascript & jQuery, ReactJS, Redux, Bootstrap4
+          C#, WPF, Nodejs, Express, Socket.io
+      - name: FontEnd
         level: |
-
-      - name: Base de données - MongoDB, PostgresSQL, MySQL
+          HTML5, CSS, Javascript & jQuery, ReactJS, Redux, Bootstrap4
+      - name: Base de données
         level: |
-
-      - name: Outils - Git, GitHub, Visual studio, Visual studio Code
+          MongoDB, PostgresSQL, MySQL
+      - name: Outils
         level: |
-
-      - name: Logiciels BIM - Revit, Autocad, Naviswork, Teckla Structure, Robot Structural Analysis (RSA), Unity, SketchUp, Civil 3D, Rhinoceros, MSProject
+          Git, GitHub, Visual studio, Visual studio Code
+      - name: Logiciels BIM
         level: |
-
-      - name: Programmations graphiques - Dynamo(Revit), Grasshopper(Rhino)
+          Revit, Autocad, Naviswork, Teckla Structure, Robot(RSA), Unity, SketchUp, Civil 3D, Rhinoceros, MSProject
+      - name: Programmations graphiques
         level: |
-
-      - name: Offices - VBA Excel
+          Dynamo(Revit), Grasshopper(Rhino)
+      - name: Offices
         level: |
-
+          VBA Excel
 
 footer: >
     
