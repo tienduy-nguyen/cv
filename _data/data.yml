@@ -133,11 +133,10 @@ skills:
       - name: Outils - Git, GitHub, Visual studio, Visual studio Code
         level: |
 
-      - name: Logiciels BIM - Revit, Autocad, Naviswork, Teckla Structure, Robot Structural Analysis (RSA)
-Unity, SketchUp, Civil 3D, Rhinoceros, MSProject
+      - name: Logiciels BIM - Revit, Autocad, Naviswork, Teckla Structure, Robot Structural Analysis (RSA), Unity, SketchUp, Civil 3D, Rhinoceros, MSProject
         level: |
 
-      - name: Programmations graphiques - Dynamo(Revit)
+      - name: Programmations graphiques - Dynamo(Revit), Grasshopper(Rhino)
         level: |
 
       - name: Offices - VBA Excel
