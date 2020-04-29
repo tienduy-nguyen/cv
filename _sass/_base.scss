@@ -249,12 +249,13 @@ p {
         margin-bottom: 12px;
     }
     .level-bar {
-        height: 12px;
+        // height: 12px;
         // background: $smoky-white;
+        font-size: 14px;
+        color: #555;
     }
     .level-bar-inner {
-        height: 12px;
-        color: #333;
+        // height: 12px;
         // background: lighten($theme-color, 15%);
     }
 }
