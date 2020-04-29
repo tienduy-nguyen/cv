@@ -1,7 +1,0 @@
-baseurl = "http://tienduy.cv.fr/"
-title = "Tien Duy CV en ligne."
-contentdir = "doc/content/fr"
-publishdir = "public/fr"
-
-[params]
-    locale = "fr-FR"
