@@ -73,11 +73,11 @@ experiences:
       company: VCF Habitat IDF (Vinci Construction France) à Nanterre (92000)
       details: |
         Developement
-          - Plugins Revit(C#, Dynamo)
+          - Plugins Revit(C#, WPF, Dynamo)
           - VBA Excel
 
         BIM
-          - Maquettes BIM GO pour l’étude de prix
+          - Maquettes BIM gros oeuvre pour l’étude de prix
           - Maquettes BIM pour suivi travaux de réhabilitation en utilisant format IFC
           - Gestion de flux de travail sur la maquette Revit entre le 3 services ARC, STR, MTH
           - Production les gabarits Revit adaptant aux besoins du travail en collaboration entre les services ARC, STR et MTH
