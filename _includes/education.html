@@ -39,12 +39,9 @@
 
         <div class="university">{{ graduation.university }}</div>
       </div><!--//meta-->
-
-      {% if graduation.details %}
       <div class="details">
         {{ graduation.details | markdownify }}
       </div><!--//details-->
-      {% endif %}
 
     </div><!--//item-->
     {% endfor %}

@@ -119,10 +119,10 @@ skills:
     title: Compétences
 
     toolset:
-      - name: BackEnd
+      - name: Backend
         level: |
           C#, WPF, Nodejs, Express, Socket.io
-      - name: FontEnd
+      - name: Frontend
         level: |
           HTML5, CSS, Javascript & jQuery, ReactJS, Redux, Bootstrap4
       - name: Base de données
