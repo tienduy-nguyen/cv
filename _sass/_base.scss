@@ -169,7 +169,9 @@ p {
     .section {
         margin-bottom: 60px;
     }
-
+    .summary{
+        text-align: justify;
+    }
     .experiences-section, .educations-section {
         .item {
             margin-bottom: 30px;
@@ -252,6 +254,7 @@ p {
     }
     .level-bar-inner {
         height: 12px;
+        color: #333;
         // background: lighten($theme-color, 15%);
     }
 }

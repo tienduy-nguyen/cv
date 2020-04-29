@@ -51,7 +51,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: A Propos
     summary: |
       Passionné par le BIM et la nouvelle technologie dans la construction, j’ai vraiment envie de mettre mes capacités dans la transformation digitale de la construction. 
       J’ai des expériences dans le travail collaboratif dans le processus BIM, de l’interopérabilité entre des différents logiciels et dans la gestion des jeux de propriétés IFC dans Revit.
@@ -61,13 +61,12 @@ education:
       university: ESTP PARIS
       time: 2015 - 2018
       details: |
-        Spécialité: Travaux Publics
-        Option:  BIM (Building Information Modeling).
+          Spécialité: Travaux Publics - Option:  BIM (Building Information Modeling).
     - degree: Diplôme d’Ingénieur
       university: Ecole Supérieure de Génie Civil (ESGC) - Vietnam
       time: 2011 - 2015
       details: |
-        Spécialité: Infrastructure de transport
+          Spécialité: Infrastructure de transport
 experiences:
     - role: Ingénieur BIM
       time: 03/2018 - Present
@@ -135,7 +134,7 @@ skills:
       - name: Logiciels BIM
         level: |
           Revit, Autocad, Naviswork, Teckla Structure, Robot(RSA), Unity, SketchUp, Civil 3D, Rhinoceros, MSProject
-      - name: Programmations graphiques
+      - name: Program graphiques
         level: |
           Dynamo(Revit), Grasshopper(Rhino)
       - name: Offices
