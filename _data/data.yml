@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: A Propos
     summary: |
-      Je suis un Ingénieur Civil (Ingénieur BIM) avec 2ans d'expériences. Pourtant, j'ai toujours très passionné par la programmation et les nouvelles technologies.
+      Je suis un Ingénieur Civil (Ingénieur BIM) avec 2ans d'expériences. Pourtant, j'ai toujours très passionné par la programmation et par les nouvelles technologies.
       Afin de ne pas avoir des regrets dans ma vie, j'ai décidé de vivre de ma passion. Je vais me challeger mon carrier vers le développement informatique pour devenir un développeur fullstack.
 
 education:
