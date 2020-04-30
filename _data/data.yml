@@ -133,7 +133,7 @@ skills:
           Git, GitHub, Visual studio, Visual studio Code
       - name: Logiciels BIM
         level: |
-          Revit, Autocad, Naviswork, Teckla Structure, Robot(RSA), Unity, SketchUp, Civil 3D, Rhinoceros, MSProject
+          Revit, Autocad, Naviswork, Tekla Structure, Robot(RSA), Unity, SketchUp, Civil 3D, Rhinoceros, MSProject
       - name: Program graphiques
         level: |
           Dynamo(Revit), Grasshopper(Rhino)
@@ -142,4 +142,4 @@ skills:
           VBA Excel
 
 footer: >
-    
+
