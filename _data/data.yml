@@ -61,12 +61,12 @@ education:
       university: ESTP PARIS
       time: 2015 - 2018
       details: |
-          Spécialité: Travaux Publics - Option:  BIM (Building Information Modeling).
+          Spécialité: Travaux Publics - BIM.
     - degree: Diplôme d’Ingénieur
       university: Ecole Supérieure de Génie Civil (ESGC) - Vietnam
       time: 2011 - 2015
       details: |
-          Spécialité: Infrastructure de transport
+          Spécialité: Infrastructures de transports
 experiences:
     - role: Ingénieur BIM
       time: 03/2018 - Present
