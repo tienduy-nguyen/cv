@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: tienduy.nguyen.dev@gmail.com
     phone: +33 7 58 04 38 28
-    website: tienduy-nguyen.github.io #do not add http://
+    website: adev42.xyz #do not add http://
     linkedin: tienduy-nguyen
     github: tienduy-nguyen
     gitlab:
@@ -124,7 +124,7 @@ skills:
           C#, WPF, Nodejs, Express, Socket.io
       - name: Frontend
         level: |
-          HTML5, CSS, Javascript & jQuery, ReactJS, Redux, Bootstrap4
+          HTML5, CSS, Sass, Scss, Javascript & jQuery, ReactJS, Redux, Bootstrap4
       - name: Base de données
         level: |
           MongoDB, PostgresSQL, MySQL
