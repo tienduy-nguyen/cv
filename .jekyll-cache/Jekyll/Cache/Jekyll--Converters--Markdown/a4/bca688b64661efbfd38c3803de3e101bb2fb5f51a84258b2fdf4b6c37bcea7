@@ -1,0 +1,16 @@
+I"t<p>Developement</p>
+<ul>
+  <li>Plugins Revit(C#, WPF, Dynamo)</li>
+  <li>VBA Excel</li>
+</ul>
+
+<p>BIM</p>
+<ul>
+  <li>Maquettes BIM gros oeuvre pour l’étude de prix</li>
+  <li>Maquettes BIM pour suivi travaux de réhabilitation en utilisant format IFC</li>
+  <li>Gestion de flux de travail sur la maquette Revit entre le 3 services ARC, STR, MTH</li>
+  <li>Production les gabarits Revit adaptant aux besoins du travail en collaboration entre les services ARC, STR et MTH</li>
+  <li>Configuration DWG dans gabarit Revit pour adapter la charte graphique du BET STR et ARC</li>
+  <li>Définir du processus BIM interne</li>
+</ul>
+:ET

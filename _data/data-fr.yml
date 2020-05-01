@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Tien Duy NGUYEN
-    tagline: Junior Full Stack Developer
+    tagline: Junior Full-stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -54,7 +54,7 @@ career-profile:
     title: A Propos
     summary: |
       Je suis un Ingénieur Civil (Ingénieur BIM) avec 2ans d'expériences. Pourtant, j'ai toujours très passionné par la programmation et par les nouvelles technologies.
-      Afin de ne pas avoir des regrets dans ma vie, j'ai décidé de vivre de ma passion. Je vais me challeger mon carrier vers le développement informatique pour devenir un développeur fullstack.
+      Afin de ne pas avoir des regrets dans ma vie, j'ai décidé de vivre de ma passion. Je vais me challeger mon carrier vers le développement informatique pour devenir un full-stack développeur.
 
 education:
     - degree: Diplôme d’Ingénieur – Grade de Master
@@ -81,7 +81,6 @@ experiences:
           - Maquettes BIM pour suivi travaux de réhabilitation en utilisant format IFC
           - Gestion de flux de travail sur la maquette Revit entre le 3 services ARC, STR, MTH
           - Production les gabarits Revit adaptant aux besoins du travail en collaboration entre les services ARC, STR et MTH
-          - Configuration DWG dans gabarit Revit pour adapter la charte graphique du BET STR et ARC
           - Définir du processus BIM interne
     
     - role: Stage assistant conducteur de travaux

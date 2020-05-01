@@ -147,9 +147,14 @@ p {
         }
     }
 
-    .interests-list {
+    .language-list {
+        position: absolute;
         margin-bottom: 0;
-        li {
+        background: transparent;
+        border: none;
+        select {
+            background-color:#4CAC9D ;
+            border: none;
             margin-bottom: 10px;
             &:last-child {
                 margin-bottom: 0;

@@ -1,0 +1,143 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Tien Duy NGUYEN
+    tagline: Junior Full-stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: tienduy.nguyen.dev@gmail.com
+    phone: +33 7 58 04 38 28
+    website: adev42.xyz #do not add http://
+    linkedin: tienduy-nguyen
+    github: tienduy-nguyen
+    gitlab:
+    bitbucket:
+    twitter: 'tienduy_nguyen'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars: TienDuy
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: French
+        level: Professional
+
+      - idiom: English
+        level: TOEIC 800
+
+      - idiom: Vietnamien
+        level: Native
+
+    interests:
+      - item: Rollerblade
+        link: 
+
+      - item: Ping-Pong
+        link:
+
+      - item: Skiing
+        link:
+
+      - item: Reading
+        link:
+
+      - item: Film
+        link:
+
+career-profile:
+    title: Carrier Profile
+    summary: |
+      I am a Civil Engineer & BIM Engineer with 2 years of experiences. However, I have always been very passionate about the programming and the new technologies.
+      So, I decided now to follow my passion. I will challege my new carrier in the IT development and to become a full-stack developer.
+
+education:
+    - degree: Engineer – Master BIM
+      university: ESTP PARIS
+      time: 2015 - 2018
+      details: |
+
+    - degree: Civil Engineer
+      university: National University of Civil Engineering (NUCE) - Vietnam
+      time: 2011 - 2015
+      details: |
+
+experiences:
+    - role: BIM Engineer
+      time: 03/2018 - Present
+      company: VCF Habitat IDF (Vinci Construction France) à Nanterre (92000)
+      details: |
+        Developement
+          - Plugins Revit(C#, WPF, Dynamo)
+          - VBA Excel
+
+        BIM
+          - Models BIM structural for the cost management
+          - Models BIM with format IFC for tracking the planned rehabilitation works of the building
+          - Produce the templates Revit for the BIM collaboration between 3 services Architectural, Strutural and  Method
+          - Define the internal BIM process of company
+    
+    - role: Intership assistant work supervisor
+      time: 06/2016 - 08/2017
+      company: RESIREP (Groupe EIFFAGE) à Monaco
+      details: |
+        - Special foundations construction site: Darse Nord and Giroflées Tower à Monaco
+   
+projects:
+    title: Personal projects
+    intro: >
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+
+skills:
+    title: Skills & Proficiency
+
+    toolset:
+      - name: Backend
+        level: |
+          C#, WPF, Nodejs, Express, Socket.io
+      - name: Frontend
+        level: |
+          HTML5, CSS, Sass, Scss, Javascript & jQuery, ReactJS, Redux, Bootstrap4
+      - name: Databases
+        level: |
+          MongoDB, PostgresSQL, MySQL
+      - name: Tools
+        level: |
+          Git, GitHub, Visual studio, Visual studio Code
+      - name: BIM softwares
+        level: |
+          Revit, Autocad, Naviswork, Tekla Structure, Robot(RSA), Unity, SketchUp, Civil 3D, Rhinoceros, MSProject
+      - name: Graphical programming
+        level: |
+          Dynamo(Revit), Grasshopper(Rhino)
+      - name: Offices
+        level: |
+          VBA Excel
+
+footer: >
+
