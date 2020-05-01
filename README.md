@@ -4,7 +4,7 @@
 
 -----------------------
 
-My CV online [here](https://tienduy-nguyen.github.io/cv/).
+My CV online [here](https://tienduy-nguyen.github.io/cv-fr/).
 
 
 This project uses the [Jekyll Themes](https://github.com/sharu725/online-cv)
