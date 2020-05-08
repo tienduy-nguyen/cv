@@ -14,10 +14,10 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 a {
-    color: darken($theme-color, 15%);
+    color: darken($text-theme-color, 15%);
     &:hover {
         text-decoration: underline;
-        color: darken($theme-color, 30%);
+        color: darken($text-theme-color, 30%);
     }
     &:focus {
         text-decoration: none;
@@ -171,7 +171,7 @@ p {
         text-transform: uppercase;
         font-size: 20px;
         font-weight: 500;
-        color: darken($theme-color, 15%);
+        color: darken($text-theme-color, 15%);
         position: relative;
         margin-top: 0;
         margin-bottom: 20px;
@@ -185,6 +185,7 @@ p {
     .experiences-section, .educations-section {
         .item {
             margin-bottom: 30px;
+            text-align: justify;
         }
     }
     .upper-row {
@@ -215,7 +216,7 @@ p {
         font-weight: 400;
         margin-top: 0;
         margin-bottom: 5px;
-	color: darken($theme-color, 15%);
+	color: darken($text-theme-color, 15%);
     }
     .projects-section {
         .intro {
@@ -223,6 +224,7 @@ p {
         }
         .item {
             margin-bottom: 15px;
+            text-align: justify;
         }
     }
 
@@ -257,12 +259,14 @@ p {
         font-size: 14px;
         margin-top: 0;
         margin-bottom: 12px;
+        
     }
     .level-bar {
         // height: 12px;
         // background: $smoky-white;
         font-size: 14px;
         color: #555;
+        text-align: justify;
     }
     .level-bar-inner {
         // height: 12px;

@@ -29,6 +29,9 @@
 
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
+        {% if project.source %}
+        <a href="{{ project.source }}" target="_blank"> [Source code]</a>
+        {% endif %}
       {% endif %}
 
     </div><!--//item-->
