@@ -6,6 +6,7 @@
 
 My CV online [here](https://tienduy-nguyen.github.io/cv/).
 
+Working in progress ...
 
 This project uses the [Jekyll Themes](https://github.com/sharu725/online-cv)
 
