@@ -4,7 +4,7 @@
 
 -----------------------
 
-My CV online [here](https://tienduy-nguyen.github.io/cv/).
+My CV online [https://tienduy-nguyen.github.io/cv](https://tienduy-nguyen.github.io/cv/).
 
 Working in progress ...
 
