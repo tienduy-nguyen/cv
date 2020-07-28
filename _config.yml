@@ -2,8 +2,8 @@
 
 # Site Settings
 title: CV Tien Duy
-url: 'https://tienduy-nguyen.github.io'
-baseurl: '/cv' #change it according to your repository name
+url: 'https://cv.adev42.com'
+baseurl: '/' #change it according to your repository name
 description: Mon cv en ligne
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: turquoise # blue turquoise green berry orange ceramic
@@ -11,8 +11,6 @@ chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't wa
 
 # Tracker
 analytics: UA-83979019-1
-
-
 
 # Sass/SCSS
 sass:
@@ -22,7 +20,7 @@ sass:
 # Build settings
 compress-site: yes
 
-encoding: "utf-8"
+encoding: 'utf-8'
 compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
