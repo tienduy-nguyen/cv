@@ -3,7 +3,7 @@
 # Site Settings
 title: CV Tien Duy
 url: 'https://cv.adev42.com'
-baseurl: '/' #change it according to your repository name
+baseurl: #change it according to your repository name
 description: Mon cv en ligne
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: turquoise # blue turquoise green berry orange ceramic
