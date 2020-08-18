@@ -3,163 +3,132 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Tien Duy NGUYEN
-    tagline: Junior Full-stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Tien Duy NGUYEN
+  tagline: Développeur Web Full-stack
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: tienduy.nguyen.dev@gmail.com
-    phone: +33 7 58 04 38 28
-    website: tienduy-nguyen.github.io #do not add http://
-    linkedin: tienduy-nguyen
-    github: tienduy-nguyen
-    gitlab: tienduy-nguyen
-    bitbucket:
-    twitter: 'tienduy_nguyen'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: tienduy-nguyen
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: tienduy.nguyen.it@gmail.com
+  phone: +33 7 58 04 38 28
+  website: adev42.com #do not add http://
+  linkedin: tienduy-nguyen
+  github: tienduy-nguyen
+  gitlab: tienduy-nguyen
+  bitbucket:
+  twitter: 'tienduy_nguyen'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars: tienduy-nguyen
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Français
-        level: Courant
+  languages:
+    - idiom: Français
+      level: Courant
 
-      - idiom: Anglais
-        level: TOEIC 800
+    - idiom: Anglais
+      level: TOEIC 800
 
-      - idiom: Vietnamien
-        level: Langue maternelle
+    - idiom: Vietnamien
+      level: Langue maternelle
 
-    interests:
-      - item: Roller
-        link: 
+  interests:
+    - item: Roller
+      link:
 
-      - item: Pinpong
-        link:
+    - item: Pingpong
+      link:
 
-      - item: Ski
-        link:
+    - item: Ski
+      link:
 
-      - item: Lecture
-        link:
+    - item: Lecture
+      link:
 
-      - item: Film
-        link:
+    - item: Film
+      link:
 
 career-profile:
-    title: A Propos
-    summary: |
-      Je suis un Ingénieur Civil (Ingénieur BIM) avec 3 ans d'expériences. Pourtant, j'ai toujours très passionné par la programmation et par les nouvelles technologies.
-      Afin de ne pas avoir des regrets dans ma vie, j'ai décidé de vivre de ma passion. Je vais me challeger mon carrier vers le développement informatique pour devenir un full-stack développeur.
+  title: A Propos
+  summary: |
+    Tien Duy est un ingénieur du bâtiment (& ingénieur BIM - Building Information Modeling) avec 3 ans d'expériences chez VINCI et chez EIFFAGE (deux des plus grands groupes de construction en France). En tant qu'un ingénieur BIM, il a l'occasion d'utiliser C# afin de développer des plugins Revit qui permettent de faciliter et d'optimiser des travails dans la contruction. Grâce à cela, il a vraiment trouvé son amour et sa passion avec la programmation. C'est pour cela qu'il a décidé de changer sa carrière et de s'orienter vers le métier de dévelopement d'informatique.
 
 education:
-    - degree: Diplôme d’Ingénieur – Grade de Master
-      university: ESTP PARIS
-      time: 2015 - 2018
-      details: |
-          Spécialité: Travaux Publics - BIM.
-    - degree: Diplôme d’Ingénieur
-      university: Ecole Supérieure de Génie Civil (ESGC) - Vietnam
-      time: 2011 - 2015
-      details: |
-          Spécialité: Infrastructures de transports
+  - degree: Bootcamp 6 mois - Full-stack Web Développement
+    university: The Hacking Project - Paris
+    time: 07/2020 - 12/2020
+    details: |
+      Ruby on Rails, ReactJS, TDD, Méthod Agile, Base de données...
+  - degree: Diplôme d’Ingénieur – Grade de Master
+    university: ESTP PARIS
+    time: 2015 - 2018
+    details: |
+      Spécialité: Travaux Publics & BIM (Building Information Modeling)
+  - degree: Diplôme d’Ingénieur
+    university: Ecole Supérieure de Génie Civil - Vietnam
+    time: 2011 - 2015
+    details: |
+      Spécialité: Infrastructures de transports
 experiences:
-    - role: Ingénieur BIM
-      time: 03/2018 - Present
-      company: VCF Habitat IDF (Vinci Construction France) à Nanterre (92000)
-      details: |
-        Developement
-          - Plugins Revit(C#, WPF, Dynamo)
-          - VBA Excel
+  - role: Ingénieur BIM
+    time: 03/2018 - 06/2020
+    company: VCF Habitat IDF (VINCI CONSTRUCTION FRANCE) à Nanterre (92000), France
+    details: |
+      - Développer des plugins Revit avec C#, WPF et Dynamo aux besoins de l'entreprise
+      - Développer une app:  Planning logement connecté entre Excel(VBA) et le plateform WizzCAD afin de  gérer les RDV lors des travaux du logement avec des locataires.
+      - Gérer le flux de travail sur la maquette Revit entre le service ARC, STR, MTH
+      - Collaborer avec des ingénieurs Structure, méthodes et étude de prix sur la maquette BIM qui nous permettent de faire des maquettes BIM métré, maquettes BIM IFC pour le  suivi travaux de chantier dans le cardre des projets du bâtiment 2.0.
 
-        BIM
-          - Maquettes BIM gros oeuvre pour l’étude de prix
-          - Maquettes BIM pour suivi travaux de réhabilitation en utilisant format IFC
-          - Gestion de flux de travail sur la maquette Revit entre le 3 services ARC, STR, MTH
-          - Production les gabarits Revit adaptant aux besoins du travail en collaboration entre les services ARC, STR et MTH
-          - Définir du processus BIM interne
-    
-    - role: Stage assistant conducteur de travaux
-      time: 06/2016 - 08/2017
-      company: RESIREP (Groupe EIFFAGE) à Monaco
-      details: |
-        - Chantier fondations spéciaux : Chantier Darse Nord et chantier Tour Giroflées à Monaco
-   
+  - role: Stage assistant conducteur de travaux
+    time: 06/2016 - 08/2017
+    company: RESIREP (EIFFAGE DE CONSTRUCTION) à Monaco
+    details: |
+      - Chantier fondations spéciaux : Chantier Darse Nord et chantier Tour Giroflées à Monaco
+
 projects:
-    title: Projets personnels
-    intro: >
-    assignments:
-      - title: Mon blog personnel.
-        link: "https://tienduy-nguyen.github.io/blog/"
-        tagline: "Utiliser le technologie de générateur de site statique avec Hexo."
-        source: 
-
-      - title: Comming soon.
-        link: "#"
-        tagline: "Demo MERN App."
-        source: 
-
-      - title: Shopping Cart.
-        link: "https://adev42-shop.herokuapp.com"
-        tagline: "Uiliser Nodejs, ExpressJS, MongoDB, ResfulAPI"
-        source: 
-
-      - title: Coming soon.
-        link: "#"
-        tagline: "Utiliser VueJS"
-        source: 
-
-      - title: Web page demo
-        link: "https://tienduy-nguyen.github.io/frontend/"
-        tagline: "Un demo de site web reactif et landing page utilisé Html5, Css3, Sass."
-        source: "https://github.com/tienduy-nguyen/frontend"
-
-      - title: Task Manager
-        link: "https://adev42-todo.herokuapp.com"
-        tagline: "Une page réactive avec Bootstrap et Reactjs qui nous aider à organiser les travails quotidiens avec liste de contrôle."
-        source: "https://github.com/tienduy-nguyen/reactjs-project/tree/master/task-manager-app-with-redux"
-      
-      - title: Template Add-In Revit API, WPF
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:6637707942089105409/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A6637620258565959680%2C6637707839961997312)"
-        tagline: "Une gabarit aide les développeur à créer des Add-In Revit with C# & WPF selon le Model Vue - Vue Model."
-        source: "https://github.com/tienduy-nguyen/revit-wpf-template"
-
-      - title: Inventory App
-        link: 
-        tagline: "Un demo window app utilisé C#, WPF, SQL Server pour faire le management de stock."
-        source: "https://github.com/tienduy-nguyen/inventory-app"
-
-
+  title: Projets personnels
+  intro: >
+  assignments:
+    - title: https://adev42.com
+      link: https://adev42.com
+      tagline: Consultez mes projets avec les démos et les sources codes sur mon website.
+      source:
 
 skills:
-    title: Compétences
+  title: Compétences Techniques
 
-    toolset:
-      - name: Back-End
-        level: |
-          C#, WPF, .Net, Nodejs, Express, Socket.io
-      - name: Front-End
-        level: |
-          HTML5, CSS3, Sass, Scss, Javascript & jQuery, ReactJS, Redux, Bootstrap4
-      - name: Base de données
-        level: |
-          MongoDB, PostgresSQL, MySQL
-      - name: Outils
-        level: |
-          Git, GitHub, GitLab, Visual studio, Visual studio Code, npm, yarn
-      - name: Logiciels BIM
-        level: |
-          Revit, Autocad, Naviswork, Tekla Structure, Robot(RSA), Unity, SketchUp, Civil 3D, Rhinoceros, MSProject
-      - name: Programmation visuelle
-        level: |
-          Dynamo(Revit), Grasshopper(Rhino)
-      - name: Offices
-        level: |
-          VBA Excel
+  toolset:
+    - name: Langages
+      level: |
+        Ruby, JavaScript/TypeScript, NodeJS, C#(.NET), Python, VBA
+    - name: Front-End
+      level: |
+        HTML5/CSS3, ReactJS+Redux, VueJS, Bootstrap+JQuery, Material-UI
+    - name: Back-End
+      level: |
+        Ruby on Rails,  Django, Flask, Express + SocketIO, Firebase
+    - name: DBMS
+      level: |
+        PostgreSQL, MySQL, SQLite, MongoDB (+Mongoose)
+    - name: Contrôle de versions
+      level: |
+        GitHub, GitLab
+    - name: Système
+      level: |
+        Linux, Microsoft
+    - name: Cloud Technologies
+      level: |
+        Docker, AWS
+    - name: Outils
+      level: |
+        VSCode, Visual Studio, Atom, Vim
+    - name: Autre
+      level: |
+        TDD, Méthode Agile, Clean Code, Design Pattern, Heroku, Générateur Site Static (Jekyll, Hugo), Trello, Cloudflare
+    - name: Logiciels BIM
+      level: |
+        Revit, Autocad, Naviswork, Tekla Structure, Robot(RSA), Unity, SketchUp, Civil 3D, Rhinoceros, MSProject
 
 footer: >
-
