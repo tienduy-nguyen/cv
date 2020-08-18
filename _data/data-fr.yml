@@ -53,7 +53,9 @@ sidebar:
 career-profile:
   title: A Propos
   summary: |
-    Tien Duy est un ingénieur du bâtiment (& ingénieur BIM - Building Information Modeling) avec 3 ans d'expériences chez VINCI et chez EIFFAGE (deux des plus grands groupes de construction en France). En tant qu'un ingénieur BIM, il a l'occasion d'utiliser C# afin de développer des plugins Revit qui permettent de faciliter et d'optimiser des travails dans la contruction. Grâce à cela, il a vraiment trouvé son amour et sa passion avec la programmation. C'est pour cela qu'il a décidé de changer sa carrière et de s'orienter vers le métier de dévelopement d'informatique.
+    Tien Duy est un ingénieur du bâtiment (& ingénieur BIM - Building Information Modeling) avec 3 ans d'expériences chez VINCI et chez EIFFAGE (deux des plus grands groupes de construction en France). 
+    En tant qu'un ingénieur BIM, il a l'occasion d'utiliser C# afin de développer des plugins Revit qui permettent de faciliter et d'optimiser des travails dans la contruction. 
+    Grâce à cela, il a vraiment trouvé son amour et sa passion avec la programmation. En 2020, il a décidé de changer sa carrière et de s'orienter vers le métier de dévelopement d'informatique.
 
 education:
   - degree: Bootcamp 6 mois - Full-stack Web Développement
