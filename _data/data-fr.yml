@@ -107,10 +107,10 @@ skills:
         Ruby, JavaScript/TypeScript, NodeJS, C#(.NET), Python, VBA
     - name: Front-End
       level: |
-        HTML5/CSS3, ReactJS+Redux, VueJS, Bootstrap+JQuery, Material-UI
+        HTML5/CSS3, ReactJS+Redux, VueJS, Bootstrap+JQuery
     - name: Back-End
       level: |
-        Ruby on Rails,  Django, Flask, Express + SocketIO, Firebase
+        Ruby on Rails,  Django, Express, Firebase
     - name: DBMS
       level: |
         PostgreSQL, MySQL, SQLite, MongoDB (+Mongoose)
