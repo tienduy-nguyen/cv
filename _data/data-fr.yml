@@ -107,7 +107,7 @@ skills:
         JavaScript/TypeScript,  Python, Ruby, C#, VBA
     - name: Back-End (REST/GraphQL)
       level: |
-        NodeJS/NestJS/Express, Ruby on Rails, Django/REST Framework
+        NodeJS/NestJS/Express, Ruby on Rails, Django/REST Framework, C# .Net-core > 3.0/Entity Framework
     - name: Front-End Frameworks
       level: |
         ReactJS, NextJS, ViteJS, HTML5/CSS
