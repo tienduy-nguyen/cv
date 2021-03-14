@@ -110,6 +110,7 @@ skills:
       level: |
         JavaScript/TypeScript,  Python, Ruby, C#, VBA
     - name: Back-End (REST/GraphQL)
+      level: |
         NodeJS/NestJS/Express, Ruby on Rails, Django/REST Framework
     - name: Front-End Frameworks
       level: |
