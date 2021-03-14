@@ -8,11 +8,11 @@ sidebar:
 
   # Profile information
   name: Tien Duy NGUYEN
-  tagline: Full-stack Web Developer
+  tagline: Full-stack Developer   JavaScript/TypeScript    NodeJS/ReactJS
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: tienduy.nguyen.it@gmail.com
+  email: tienduy.nguyen.dev@gmail.com
   phone: +33 7 58 04 38 28
   website: adev42.com #do not add http://
   linkedin: tienduy-nguyen
@@ -106,35 +106,43 @@ skills:
   title: Skills & Proficiency
 
   toolset:
-    - name: Programming Language
+    - name: Languages
       level: |
-        Ruby, JavaScript/TypeScript, NodeJS, C#(.NET), Python, VBA
-    - name: Front-End
+        JavaScript/TypeScript,  Python, Ruby, C#, VBA
+    - name: Back-End (REST/GraphQL)
+        NodeJS/NestJS/Express, Ruby on Rails, Django/REST Framework
+    - name: Front-End Frameworks
       level: |
-        HTML5/CSS3, ReactJS+Redux, VueJS, Bootstrap+JQuery
-    - name: Back-End
+        ReactJS, NextJS, ViteJS, HTML5/CSS
+    - name: Front-End UI/Tools
       level: |
-        Ruby on Rails,  Django, Express , Firebase
+        Webpack, Babel, Bootstrap, Ant design, Chakra-UI, TailwindCSS
     - name: DBMS
       level: |
-        PostgreSQL, MySQL, SQLite, MongoDB (+Mongoose)
-    - name: Version Control
+        PostgreSQL, MySQL, MongoDB , SQLite, Redis, Elastic search
+    - name: ORM Tools
       level: |
-        GitHub, GitLab
-    - name: Operate System
+        TypeORM, Prisma2, Mongoose, Sequelize
+    - name: Version of control
       level: |
-        Linux, Microsoft
+        Git, GitHub, GitLab
     - name: Cloud Technologies
       level: |
-        Docker, AWS
-    - name: Tools
+        Docker, AWS, Firebase, Heroku
+    - name: CI-CD
       level: |
-        VSCode, Visual Studio, Atom, Vim
-    - name: Autre
+        GitHub actions, Travis-Ci, Circle-Ci
+    - name: Systems
       level: |
-        TDD, Agile Method, Clean Code, Design Pattern, Heroku, Static Site Generator (Jekyll, Hugo), Trello, Cloudflare
-    - name: BIM Software
+        Linux, Microsoft
+    - name: IDE/Text-Editor
       level: |
-        Revit, Autocad, Naviswork, Tekla Structure, Robot(RSA), Unity, SketchUp, Civil 3D, Rhinoceros, MSProject
+        VsCode, Vim/NeoVim, Tmux, Visual Studio
+    - name: Other
+      level: |
+        TDD (Jest/Cypress), Méthode Agile, Clean Code, Clean Architecture, Design Pattern, Heroku, Générateur Site Static (Jekyll, Hugo), Trello, Cloudflare
+    - name: BIM Softwares
+      level: |
+        Revit, Autocad, Naviswork, Tekla Structure, Robot(RSA), SketchUp, Civil 3D, Rhinoceros, MSProject
 
 footer: >

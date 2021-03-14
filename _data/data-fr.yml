@@ -8,11 +8,11 @@ sidebar:
 
   # Profile information
   name: Tien Duy NGUYEN
-  tagline: Développeur Web Full-stack
+  tagline: Développeur Full-stack    JavaScript/TypeScript    NodeJS/ReactJS
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: tienduy.nguyen.it@gmail.com
+  email: tienduy.nguyen.dev@gmail.com
   phone: +33 7 58 04 38 28
   website: adev42.com #do not add http://
   linkedin: tienduy-nguyen
@@ -53,9 +53,9 @@ sidebar:
 career-profile:
   title: A Propos
   summary: |
-    Tien Duy est un ingénieur du bâtiment (& ingénieur BIM - Building Information Modeling) avec 3 ans d'expériences chez VINCI et chez EIFFAGE (deux des plus grands groupes de construction en France). 
-    En tant qu'un ingénieur BIM, il a l'occasion d'utiliser C# afin de développer des plugins Revit qui permettent de faciliter et d'optimiser des travails dans la contruction. 
-    Grâce à cela, il a vraiment trouvé son amour et sa passion avec la programmation. En 2020, il a décidé de changer sa carrière et de s'orienter vers le métier de dévelopement d'informatique.
+    Avec le background Ingénieur BIM (Building Information Modeling) chez VINCI Construction France, j'ai travaillé avec plusieurs mordernes logiciels de construction. Cela me permet de trouver l'importance du développement numérique et je suis devenu de plus en plus intéressé par la programmation.
+    J'ai toujours adoré de découvrir et apprendre de nouvelles technologies. Sauf 1 ans d'expérience de travail en tant que développeur lociciel avec C# et Dynamo  chez Vinci, j'ai eu aussi des solids connaissances et compétences sur Ruby/Rails, Python/Django et notamment  Javascript et TypeScript via NodeJS/ReactJS
+    Mon stack préféré: TypeScript-NodeJS/NestJS - ReactJS - PostgreSQL (REST & GraphQL)
 
 education:
   - degree: Bootcamp 6 mois - Full-stack Web Développement
@@ -79,9 +79,9 @@ experiences:
     company: VCF Habitat IDF (VINCI CONSTRUCTION FRANCE) à Nanterre (92000), France
     details: |
       - Développer des plugins Revit avec C#, WPF et Dynamo aux besoins de l'entreprise
-      - Développer une app:  Planning logement connecté entre Excel(VBA) et le plateform WizzCAD afin de  gérer les RDV lors des travaux du logement avec des locataires.
+      - Développer une application sur VBA pour GTM Bâtiment:  Planning connecté entre Excel et le plateforme WizzCAD pour gérer des RDV des travaux du logement.
       - Gérer le flux de travail sur la maquette Revit entre le service ARC, STR, MTH
-      - Collaborer avec des ingénieurs Structure, méthodes et étude de prix sur la maquette BIM qui nous permettent de faire des maquettes BIM métré, maquettes BIM IFC pour le  suivi travaux de chantier dans le cardre des projets du bâtiment 2.0.
+      - BIM Ingénieur/Coordinateur (principal): Gérer le flux de travail sur la maquette BIM entre différence service dans l'entreprise (STR, MTH, ARC, EDP). Collaborer avec des ingénieurs, des projeteurs pour modéliser, intégrer des informations (BIM) dans la maquette numérique et sortir des  maquettes  Revit, IFC dédiés pour chaque service.
 
   - role: Stage assistant conducteur de travaux
     time: 06/2016 - 08/2017
@@ -104,33 +104,42 @@ skills:
   toolset:
     - name: Langages
       level: |
-        Ruby, JavaScript/TypeScript, NodeJS, C#(.NET), Python, VBA
-    - name: Front-End
+        JavaScript/TypeScript,  Python, Ruby, C#, VBA
+    - name: Back-End (REST/GraphQL)
       level: |
-        HTML5/CSS3, ReactJS+Redux, VueJS, Bootstrap+JQuery
-    - name: Back-End
+        NodeJS/NestJS/Express, Ruby on Rails, Django/REST Framework
+    - name: Front-End Frameworks
       level: |
-        Ruby on Rails,  Django, Express, Firebase
+        ReactJS, NextJS, ViteJS, HTML5/CSS
+    - name: Front-End UI/Tools
+      level: |
+        Webpack, Babel, Bootstrap, Ant design, Chakra-UI, TailwindCSS
     - name: DBMS
       level: |
-        PostgreSQL, MySQL, SQLite, MongoDB (+Mongoose)
+        PostgreSQL, MySQL, MongoDB , SQLite, Redis, Elastic search
+    - name: ORM Tools
+      level: |
+        TypeORM, Prisma2, Mongoose, Sequelize
     - name: Contrôle de versions
       level: |
-        GitHub, GitLab
+        Git, GitHub, GitLab
+    - name: Cloud Technologies
+      level: |
+        Docker, AWS, Firebase, Heroku
+    - name: CI-CD
+      level: |
+        GitHub actions, Travis-Ci, Circle-Ci
     - name: Système
       level: |
         Linux, Microsoft
-    - name: Cloud Technologies
+    - name: IDE/Text-Editor
       level: |
-        Docker, AWS
-    - name: Outils
-      level: |
-        VSCode, Visual Studio, Atom, Vim
+        VsCode, Vim/NeoVim, Tmux, Visual Studio
     - name: Autre
       level: |
-        TDD, Méthode Agile, Clean Code, Design Pattern, Heroku, Générateur Site Static (Jekyll, Hugo), Trello, Cloudflare
+        TDD (Jest/Cypress), Méthode Agile, Clean Code, Clean Architecture, Design Pattern, Heroku, Générateur Site Static (Jekyll, Hugo), Trello, Cloudflare
     - name: Logiciels BIM
       level: |
-        Revit, Autocad, Naviswork, Tekla Structure, Robot(RSA), Unity, SketchUp, Civil 3D, Rhinoceros, MSProject
+        Revit, Autocad, Naviswork, Tekla Structure, Robot(RSA), SketchUp, Civil 3D, Rhinoceros, MSProject
 
 footer: >
