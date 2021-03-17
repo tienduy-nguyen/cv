@@ -53,9 +53,17 @@ sidebar:
 career-profile:
   title: A Propos
   summary: |
-    Avec le background Ingénieur BIM (Building Information Modeling) chez VINCI Construction France, j'ai travaillé avec plusieurs mordernes logiciels de construction. Cela me permet de trouver l'importance du développement numérique et je suis devenu de plus en plus intéressé par la programmation.
-    J'ai toujours adoré de découvrir et apprendre de nouvelles technologies. Sauf 1 ans d'expérience de travail en tant que développeur lociciel avec C# et Dynamo  chez Vinci, j'ai eu aussi des solids connaissances et compétences sur Ruby/Rails, Python/Django et notamment  Javascript et TypeScript via NodeJS/ReactJS
-    Mon stack préféré: TypeScript-NodeJS/NestJS - ReactJS - PostgreSQL (REST & GraphQL)
+      Avec le background Ingénieur BIM (Building Information Modeling) chez VINCI
+      Construction France, j'ai travaillé avec plusieurs mordernes logiciels de construction.
+      Cela me permet de trouver l'importance du développement numérique. Je suis devenu de
+      plus en plus intéressé par la programmation et depuis le fin de 2019 j'ai commencé à s'y
+      consacrer totalement.
+      
+      J'ai toujours adoré de découvrir et apprendre de nouvelles technologies. J'ai de solides
+      compétences avec **Javascript et TypeScript** via **NodeJS/ReactJS**. Je suis à l'aise aussi avec
+      C#/.NetCore, Ruby/rails et Python/Django.
+      
+      Mon stack préféré: TypeScript-NodeJS/NestJS - ReactJS - PostgreSQL (REST & GraphQL)
 
 education:
   - degree: Bootcamp 6 mois - Full-stack Web Développement
@@ -74,6 +82,15 @@ education:
     details: |
       Spécialité: Infrastructures de transports
 experiences:
+  - role: Développeur Full-stack/Open-sourcer
+    time: 10/2019 - Aujourd'hui
+    company: Open-source/GitHub
+    details: |
+      - Participer à développer des projects open-source sur GitHub: tutoriels, démo
+        technologies, boilerplates websites: entreprise app, ecommerce, blog/social ...
+      - Travailer pricipalement avec JavaScript et TypeScript via NodeJS etReactJS, et des fois avec Ruby/Rails, Python/Django et C#
+      - Consulter mes projets personels sur mon website: [https://adev42.com](https://adev42.com) et aussi sur mon GitHub: [tienduy-nguyen](https://github.com/tienduy-nguyen)
+
   - role: Ingénieur BIM
     time: 03/2018 - 06/2020
     company: VCF Habitat IDF (VINCI CONSTRUCTION FRANCE) à Nanterre (92000), France
@@ -89,14 +106,14 @@ experiences:
     details: |
       - Chantier fondations spéciaux : Chantier Darse Nord et chantier Tour Giroflées à Monaco
 
-projects:
-  title: Projets personnels
-  intro: >
-  assignments:
-    - title: https://adev42.com
-      link: https://adev42.com
-      tagline: Consultez mes projets avec les démos et les sources codes sur mon website.
-      source:
+# projects:
+#   title: Projets personnels
+#   intro: >
+#   assignments:
+#     - title: https://adev42.com
+#       link: https://adev42.com
+#       tagline: Consultez mes projets avec les démos et les sources codes sur mon website.
+#       source:
 
 skills:
   title: Compétences Techniques
