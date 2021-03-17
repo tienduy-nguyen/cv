@@ -60,7 +60,7 @@ career-profile:
       consacrer totalement.
       
       J'ai toujours adoré de découvrir et apprendre de nouvelles technologies. J'ai de solides
-      compétences avec **Javascript et TypeScript** via **NodeJS/ReactJS**. Je suis à l'aise aussi avec
+      compétences avec **Javascript et TypeScript** via **NodeJS/ReactJS**. Je suis aussi à l'aise avec
       C#/.NetCore, Ruby/rails et Python/Django.
       
       Mon stack préféré: TypeScript-NodeJS/NestJS - ReactJS - PostgreSQL (REST & GraphQL)
@@ -70,12 +70,12 @@ education:
     university: The Hacking Project - Paris
     time: 07/2020 - 12/2020
     details: |
-      Ruby on Rails, ReactJS, TDD, Méthod Agile, Base de données...
+      Ruby/Rails, JavaScript, ReactJS, TDD, Méthode Agile, Conception BDD, Pair/Peer Programming ...
   - degree: Diplôme d’Ingénieur – Grade de Master
     university: ESTP PARIS
     time: 2015 - 2018
     details: |
-      Spécialité: Travaux Publics & BIM (Building Information Modeling)
+      Spécialité: Travaux Publics & BIM (Building Information Modeling), Cours: C#, Dynamo (Python) pour Revit (3D)
   - degree: Diplôme d’Ingénieur
     university: Ecole Supérieure de Génie Civil - Vietnam
     time: 2011 - 2015
