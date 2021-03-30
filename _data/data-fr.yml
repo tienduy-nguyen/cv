@@ -56,14 +56,14 @@ career-profile:
       Avec le background Ingénieur BIM (Building Information Modeling) chez VINCI
       Construction France, j'ai travaillé avec plusieurs mordernes logiciels de construction.
       Cela me permet de trouver l'importance du développement numérique. Je suis devenu de
-      plus en plus intéressé par la programmation et depuis le fin de 2019 j'ai commencé à s'y
+      plus en plus intéressé par la programmation. A partir du fin de 2019 j'ai commencé à s'y
       consacrer totalement.
+      J'ai toujours adoré de découvrir et apprendre de nouvelles technologies. J'ai grand
+      compétences de travail avec JavaScript et TypeScript via NodeJS/ReactJS. Je suis aussi à
+      l'aise avec C#/.NetCore, Ruby/rails.
       
-      J'ai toujours adoré de découvrir et apprendre de nouvelles technologies. J'ai de solides
-      compétences avec **Javascript et TypeScript** via **NodeJS/ReactJS**. Je suis aussi à l'aise avec
-      C#/.NetCore, Ruby/rails et Python/Django.
+      Mon stack préféré: TypeScript-NodeJS/NestJS - ReactJS - PostgreSQL (REST & GraphQL).
       
-      Mon stack préféré: TypeScript-NodeJS/NestJS - ReactJS - PostgreSQL (REST & GraphQL)
 
 education:
   - degree: Bootcamp 6 mois - Full-stack Web Développement
@@ -91,7 +91,7 @@ experiences:
       - Travailer pricipalement avec JavaScript et TypeScript via NodeJS etReactJS, et des fois avec Ruby/Rails, Python/Django et C#
       - Consulter mes projets personels sur mon website: [https://adev42.com](https://adev42.com) et aussi sur mon GitHub: [tienduy-nguyen](https://github.com/tienduy-nguyen)
 
-  - role: Ingénieur BIM
+  - role: Ingénieur/Développeur BIM
     time: 03/2018 - 06/2020
     company: VCF Habitat IDF (VINCI CONSTRUCTION FRANCE) à Nanterre (92000), France
     details: |
