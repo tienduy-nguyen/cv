@@ -53,16 +53,11 @@ sidebar:
 career-profile:
   title: A Propos
   summary: |
-      Avec le background Ingénieur BIM (Building Information Modeling) chez VINCI
-      Construction France, j'ai travaillé avec plusieurs mordernes logiciels de construction.
-      Cela me permet de trouver l'importance du développement numérique. Je suis devenu de
-      plus en plus intéressé par la programmation. A partir du fin de 2019 j'ai commencé à s'y
-      consacrer totalement.
-      J'ai toujours adoré de découvrir et apprendre de nouvelles technologies. J'ai grand
-      compétences de travail avec JavaScript et TypeScript via NodeJS/ReactJS. Je suis aussi à
-      l'aise avec C#/.NetCore, Ruby/rails.
+      Avec le background Ingénieur BIM (Building Information Modeling) chez VINCI Construction France, j'ai travaillé avec plusieurs mordernes logiciels de construction. Cela me permet de trouver l'importance du développement numérique. Je suis devenu de plus en plus intéressé par la programmation. A partir du fin de 2019 j'ai commencé à s'y consacrer totalement.
+      J'ai toujours adoré de découvrir et apprendre de nouvelles technologies. 
+      J'ai déjà travaillé avec C#/.Net core, Python/Django, Ruby/Rails mais maintenant je m'arrête à mon stack préféré: 
       
-      Mon stack préféré: TypeScript-NodeJS/NestJS - ReactJS - PostgreSQL (REST & GraphQL).
+      TypeScript- NodeJS/NestJS - ReactJS - PostgreSQL (REST & GraphQL)
       
 
 education:
