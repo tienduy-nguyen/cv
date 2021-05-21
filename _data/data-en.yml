@@ -57,11 +57,11 @@ career-profile:
     So, he quit his BIM Engineer job to pursue his passion in the IT development.
 
 education:
-  - degree: Coding Bootcamp 6 months - Full-stack Web Development
+  - degree: Coding Bootcamp 3 months - Full-stack Web Development
     university: The Hacking Project - Paris
-    time: 07/2020 - 12/2020
+    time: 07/2020 - 09/2020
     details: |
-      Ruby on Rails, ReactJS, TDD, Agile Method, Database ...
+      Ruby on Rails, TDD, Agile Method, Database ...
   - degree: Engineer Degree – Master BIM
     university: ESTP PARIS
     time: 2015 - 2018

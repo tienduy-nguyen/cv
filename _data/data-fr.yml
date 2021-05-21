@@ -61,11 +61,11 @@ career-profile:
       
 
 education:
-  - degree: Bootcamp 6 mois - Full-stack Web Développement
+  - degree: Bootcamp intensive 3 mois - Full-stack Web Développement
     university: The Hacking Project - Paris
-    time: 07/2020 - 12/2020
+    time: 07/2020 - 09/2020
     details: |
-      Ruby/Rails, JavaScript, ReactJS, TDD, Méthode Agile, Conception BDD, Pair/Peer Programming ...
+      Ruby/Rails, JavaScript, TDD, Méthode Agile, Conception BDD, Pair/Peer Programming ...
   - degree: Diplôme d’Ingénieur – Grade de Master
     university: ESTP PARIS
     time: 2015 - 2018
